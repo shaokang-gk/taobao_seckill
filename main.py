@@ -17,7 +17,7 @@ def run_killer(txt, txt2):
 
 def main():
     win = Tk()
-    win.title('小熊秒杀助手')
+    win.title('淘宝购物车秒杀助手')
     width = 380
     height = 300
     screenwidth = win.winfo_screenwidth()
